@@ -1,6 +1,6 @@
-import { result } from "@/types/result.types";
 import Image from "next/image";
 import { GetRandomUser } from "./GetRandomUser";
+import { result } from "@/app/types/resultTypes";
 
 
 const MemberList = async () => {
