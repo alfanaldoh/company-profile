@@ -1,5 +1,3 @@
-import { asap } from "@/lib/fonts"
-
 const HeaderTeam = () => {
     return (
         <div>
